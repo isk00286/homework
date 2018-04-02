@@ -1,0 +1,7 @@
+2012083013 °í°ÇÈ£
+
+This is a LED brightness control program.
+LED lights up when you press the yellow button.
+If you press a red button, the brightness of the LED decreases.
+I got inspiration from a lamp that was turned on before I went to bed.
+
